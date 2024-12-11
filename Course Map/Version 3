@@ -1,0 +1,161 @@
+<h2>Course Map</h2>
+    <table class="table table-hover" style="width: 85.0174%;">
+        <caption>Course Map 16 Week Section</caption>
+        <thead>
+            <tr>
+                <th style="width: 14.7829%;" scope="row">Module or Week</th>
+                <th style="width: 25.9411%;" scope="row">Learning Outcomes</th>
+                <th style="width: 28.1231%;" scope="row">Materials Needed</th>
+                <th style="width: 17.6534%;" scope="row">Technology Needed</th>
+                <th style="width: 6.6032%;" scope="row">Learning Activities</th>
+                <th style="width: 3.3016%;" scope="row">Assessments</th>
+                <th style="width: 3.3016%;" scope="row">Feedback Type &amp; Frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="width: 14.7829%;">01</td>
+                <td style="width: 25.9411%;"><span style="background-color: #c2e0f4;"><em>List Course Learning Outcomes (CLOs) or Module Outcomes (MOs) here</em></span></td>
+                <td style="width: 28.1231%;"><span style="background-color: #c2e0f4;"><em>List textbook chapters, instructional resources, instructional tools, etc. here</em></span></td>
+                <td style="width: 17.6534%; text-align: center;"><a class="inline_disabled" title="Link" href="https://www.tccd.edu/academics/courses-and-programs/elearning/" target="_blank" rel="noopener">TCC eLearning &amp; Distance Education</a></td>
+                <td style="width: 6.6032%;"><span style="background-color: #c2e0f4;"><em>List readings, lectures, discussion boards, assignments, projects, etc. here</em></span></td>
+                <td style="width: 3.3016%;"><span style="background-color: #c2e0f4;"><em>List quizzes, exams, papers, projects, etc. here</em></span></td>
+                <td style="width: 3.3016%;"><span style="background-color: #c2e0f4;"><em>List how feedback will be provided (i.e. rubrics, comments, recorded comments, etc.) and how often (weekly, on assignments, etc.) here</em></span></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">02</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"><a class="inline_disabled" title="Link" href="https://www.tccd.edu/academics/courses-and-programs/elearning/" target="_blank" rel="noopener">TCC eLearning &amp; Distance Education</a></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">03</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"><a class="inline_disabled" title="Link" href="https://www.tccd.edu/academics/courses-and-programs/elearning/" target="_blank" rel="noopener">TCC eLearning &amp; Distance Education</a></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">04</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">05</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">06</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">07</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">08</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">09</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">10</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">11</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">12</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">13</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">14</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">15</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+            <tr>
+                <td style="width: 14.7829%;">16</td>
+                <td style="width: 25.9411%;"></td>
+                <td style="width: 28.1231%;"></td>
+                <td style="width: 17.6534%; text-align: center;"></td>
+                <td style="width: 6.6032%;"></td>
+                <td style="width: 3.3016%;"></td>
+                <td style="width: 3.3016%;"></td>
+            </tr>
+        </tbody>
+    </table>
