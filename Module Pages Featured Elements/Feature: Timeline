@@ -1,0 +1,14 @@
+<h2 class="border-round" style="background: #000000; padding: 20px 0 20px 35px;"><span style="font-size: 36pt;"><strong><span style="color: #ffffff;">Timeline</span></strong></span></h2>
+<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p>
+<hr style="border-top: 6px solid #000000; margin: 30px auto;" />
+<div class="grid-row">
+    <div class="col-md-4 col-xs-12" style="border-right: 3px solid #000000; padding-right: 30px; margin-bottom: 30px; text-align: right;">
+        <h3 style="color: #000000;"><span style="font-family: 'arial black', 'avant garde'; color: #000000;"><strong><span style="font-size: 60pt;">1985</span></strong></span></h3>
+        <h4><span style="font-size: 24pt;">Lorem ipsum dolor</span></h4>
+        <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&nbsp;</span></p>
+    </div>
+    <div class="col-md-8 col-xs-12" style="border-left: 3px solid #000000; padding-left: 30px; margin-bottom: 30px;">
+        <p><img id="11976058" style="float: left; margin-right: 25px;" src="/courses/49353/files/11976058/preview" alt="Image icon - replace with your image" width="200" height="200" data-api-endpoint="https://canvas.tccd.edu/api/v1/courses/49353/files/11976058" data-api-returntype="File" /><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p>
+        <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p>
+    </div>
+</div>

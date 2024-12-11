@@ -1,0 +1,21 @@
+<p style="text-align: center;"><span style="background-color: #c2e0f4;"><em>Replace this text with a custom banner or header.</em></span></p>
+<p style="text-align: left;"><span style="background-color: #c2e0f4;"><em>This page format will allow you to create a custom grid format that is Accessibility compliant but has the appearance of a table in format. Replace the text <strong>"Insert Image x here" </strong>with the image of your choice. Replace the text <strong>"Image x description or information" </strong>with a label, a description or other necessary information to identify the image. Images can be used as buttons if selected and hyperlinked to course content or external resources. The </em></span><em><strong><a class="inline_disabled" href="https://canvas.tccd.edu/courses/49353" target="_blank" rel="noopener">Instructional Resources Hub</a></strong></em><span style="background-color: #c2e0f4;"><em> is set up in this format.</em></span></p>
+<div class="grid-row">
+    <div class="col-xs-12 col-md-3">
+        <p style="text-align: center;"><span style="background-color: #c2e0f4;">Insert Image 1 here</span></p>
+        <p style="text-align: center;"><span style="background-color: #c2e0f4;">Image 1 description or information</span></p>
+    </div>
+    <div class="col-xs-12 col-md-3">
+        <p style="text-align: center;"><span style="background-color: #c2e0f4;">Insert Image 2 here</span></p>
+        <p style="text-align: center;"><span style="background-color: #c2e0f4;">Image 2 description or information</span></p>
+    </div>
+    <div class="col-xs-12 col-md-3">
+        <p style="text-align: center;"><span style="background-color: #c2e0f4;">Insert Image 3 here</span></p>
+        <p style="text-align: center;"><span style="background-color: #c2e0f4;">Image 3 description or information</span></p>
+    </div>
+    <div class="col-xs-12 col-md-3">
+        <p style="text-align: center;"><span style="background-color: #c2e0f4;">Insert Image 4 here</span></p>
+        <p style="text-align: center;"><span style="background-color: #c2e0f4;">Image 4 description or information</span></p>
+    </div>
+</div>
+

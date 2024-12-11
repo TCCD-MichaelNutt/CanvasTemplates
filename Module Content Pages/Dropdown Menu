@@ -1,0 +1,33 @@
+<p><em>If you have a lot of information to include on a page and want to consolidate it for the viewer, you can use dropdown menu options. Be sure to include the following direction for those who have on screen readers (OCR): </em></p>
+<p>You can learn more about each topic by clicking the dropdown arrows below.</p>
+<p><span style="background-color: #fbeeb8;"><em>An example of what this looks like is available if you view <a style="background-color: #fbeeb8;" title="Student Success in Online Classes" href="https://canvas.tccd.edu/courses/53595/pages/student-success-in-online-classes" data-api-endpoint="https://canvas.tccd.edu/api/v1/courses/53595/pages/student-success-in-online-classes" data-api-returntype="Page">Student Success in Online Classes</a>. Remove this text when you use the template.</em></span></p>
+<details>
+    <summary style="font-size: 18pt; background-color: whitesmoke; cursor: pointer;">Add Your Own Content Sample 1</summary>
+    <div id="reveal" class="pad-box-mini border-round" style="border: thin solid grey;">
+        <p>Add your own content</p>
+    </div>
+</details>
+<details>
+    <summary style="font-size: 18pt; background-color: whitesmoke; cursor: pointer;">Add Your Own Content Sample 2</summary>
+    <div id="reveal" class="pad-box-mini border-round" style="border: thin solid grey;">
+        <p>Add your own content</p>
+    </div>
+</details>
+<details>
+    <summary style="font-size: 18pt; background-color: whitesmoke; cursor: pointer;">Add Your Own Content Sample 3</summary>
+    <div id="reveal" class="pad-box-mini border-round" style="border: thin solid grey;">
+        <p>Add your own content</p>
+    </div>
+</details>
+<details>
+    <summary style="font-size: 18pt; background-color: whitesmoke; cursor: pointer;">Add Your Own Content Sample 4</summary>
+    <div id="reveal" class="pad-box-mini border-round" style="border: thin solid grey;">
+        <p>Add your own content</p>
+    </div>
+</details>
+<details>
+    <summary style="font-size: 18pt; background-color: whitesmoke; cursor: pointer;">Add Your Own Content Sample 5</summary>
+    <div id="reveal" class="pad-box-mini border-round" style="border: thin solid grey;">Add your own content
+        <p>&nbsp;</p>
+    </div>
+</details>

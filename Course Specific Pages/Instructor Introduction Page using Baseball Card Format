@@ -1,0 +1,17 @@
+<div class="container">
+    <div class="card" style="width: 400px;"><img src="https://canvas.tccd.edu/courses/53595/files/6273250/preview" alt="Replace this image with actual photo of the instructor" data-api-endpoint="https://canvas.tccd.edu/api/v1/courses/53595/files/6273250" data-api-returntype="File" /><br />
+        <div class="card-body">
+            <h2 class="card-title"><span style="background-color: #fbeeb8;"><em><strong>Professor Peter Plum</strong></em></span></h2>
+            <p class="card-text"><span style="background-color: #fbeeb8;"><em>Professor Peter Plum (Dundee, Scotland) Attended Harvard University earning a doctorate in Chemistry. Later he studied at Oxford University focusing on Middle Eastern Studies so that he could fulfill his lifelong dream of becoming an archeologist and Egyptologist like his parents. Plum began teaching archeology at Harvard University and later became the Archaeology Department chair.</em></span></p>
+        </div>
+    </div>
+    <hr />
+    <h2><strong>Contact Information</strong></h2>
+    <p><span style="background-color: #fbeeb8;"><em>Office Hours:&nbsp;This is part of&nbsp;<a class="inline_disabled" style="background-color: #fbeeb8;" href="https://canvas.tccd.edu/courses/49353/pages/regular-and-substantive-interaction-rsi" target="_blank" rel="noopener" data-api-endpoint="https://canvas.tccd.edu/api/v1/courses/49353/pages/regular-and-substantive-interaction-rsi" data-api-returntype="Page">Regular and Substantive Interaction (RSI)</a>&nbsp;in a distance learning course and must be addressed.</em></span></p>
+    <p><span style="background-color: #fbeeb8;"><em>Microsoft Teams Office Hours Link</em></span></p>
+    <p><span style="background-color: #fbeeb8;"><em>Telephone:</em></span></p>
+    <p><span style="background-color: #fbeeb8;"><em>Email:</em></span></p>
+    <p><span style="background-color: #fbeeb8;"><em>Website:</em></span></p>
+    <p><span style="background-color: #fbeeb8;"><em>Additional Contact Information: This may be information such as preferred contact times that will result in faster/quicker responses or additional methods of communication</em></span></p>
+</div>
+
